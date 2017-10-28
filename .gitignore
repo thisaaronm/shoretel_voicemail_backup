@@ -1,4 +1,7 @@
 *
 !.gitignore
 !README.md
+!doc_bash.md
+!doc_py.md
 !shoretel_voicemail_backup.sh
+!shoretel_voicemail_backup.py
