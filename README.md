@@ -32,8 +32,8 @@
     - `python shoretel_voicemail_backup.py 1234`
 
 # Documentation  
-- [doc_bash.md](https://github.com/thisaaronm/shoretel_voicemail_backup/blob/python/doc_bash.md)
-- [doc_py.md](https://github.com/thisaaronm/shoretel_voicemail_backup/blob/python/doc_py.md)
+- [doc_bash.md](https://github.com/thisaaronm/shoretel_voicemail_backup/blob/master/doc_bash.md)
+- [doc_py.md](https://github.com/thisaaronm/shoretel_voicemail_backup/blob/master/doc_py.md)
 
 ---
 # DISCLAIMER
